@@ -5,16 +5,12 @@
 - 🧭 Foco em resultados de negócio, cultura de engenharia e estratégia de TI
 - ✍️ Escrevo sobre tecnologia e liderança no meu [blog](https://www.anselme.com.br)
 
----
-
 ## 🚀 Principais competências
 
 - 🔧 Backend: C#, Node.js | Frontend: Angular
 - 🧠 Arquitetura moderna: DDD, EDA, Microservices, Clean Architecture
 - 📊 Gestão: OKRs, KPIs, ITIL, COBIT
 - 👥 Liderança: Mentoria, Avaliação de desempenho, Gestão de times multidisciplinares
-
----
 
 ## 🧪 Alguns Artigos técnicos do [blog](https://www.anselme.com.br)
 
