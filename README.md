@@ -23,6 +23,6 @@
 
 ## 📫 Contato
 
-- ✉️ thiagoanselme@email.com
+- ✉️ thiago@anselme.com.br
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thiagoanselme/)
 - 📝 [Meu blog](https://www.anselme.com.br)
