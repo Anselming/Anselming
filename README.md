@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎯 Mais de 18 anos em tecnologia, com atuação como Gerente de TI, Arquiteto de Soluções e Tech Lead
-- ☁️ Especialista em Cloud (Azure, AWS), Docker, Kubernetes, CI/CD e Governança
+- ☁️ Experiente em Cloud (Azure, AWS), Docker, Kubernetes, CI/CD e Governança
 - 🧭 Foco em resultados de negócio, cultura de engenharia e estratégia de TI
 - ✍️ Escrevo sobre tecnologia e liderança no meu [blog](https://www.anselme.com.br)
 
